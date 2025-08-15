@@ -72,7 +72,7 @@ The final model's performance is rigorously evaluated using classification repor
 
 ## Implementation
 To see the project in action, visit the hosted Jupyter notebook on GitHub Pages:
-[Explore the Live Notebook](https://acm40960.github.io/project-currency-denomination-recognition-23200555/)
+[Explore the Live Notebook](https://shubhgaur37.github.io/Currency-Denomination-Recognition-for-the-Visually-Impaired/)
 
 ## Usage
 
