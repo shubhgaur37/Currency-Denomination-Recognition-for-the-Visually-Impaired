@@ -1,4 +1,4 @@
-# Banknote Recognition for Assistive Applications
+# Banknote Recognition for the Visually Impaired
 ## Table of Contents
 
 1.  [Introduction](#introduction)
