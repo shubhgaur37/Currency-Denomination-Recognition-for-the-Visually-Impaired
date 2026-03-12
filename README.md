@@ -1,5 +1,4 @@
-# Currency Denomination Recognition for the Visually Impaired
-
+# Banknote Recognition for Assistive Applications
 ## Table of Contents
 
 1.  [Introduction](#introduction)
